@@ -9,11 +9,11 @@
 ### Principais funcionalidades
 
 - CRUD de pokemon em um banco de dados
-  - Cadastro do nome, número e tipo do pokemon em no mongodb
+  - Cadastro do nome, número e tipo do pokemon no mongodb
   - Listar todos os pokemon da tabela
   - atualizar um pokemon através do seu nome
   - remover um pokemon através do seu nome
-  - atualizar um pokemon através da busca do nome do pokemon
+  - Buscar um pokemon através do seu nome
 
 > Status do Projeto: Concluído :heavy_check_mark:
 
